@@ -14,7 +14,7 @@ _This web page was created with the sole purpose of practicing HTML. It is basic
 * _git clone the link from lewdavidson's Git Hub account_
 * _open the mfw/ my-first-webpage.html_
 
-_the will run in the browser of your choice._
+_this will run in the browser of your choice._
 
 ## Known Bugs
 
@@ -32,5 +32,5 @@ _To make this site, we used Atom, GitHub, and HTML._
 
 *Licensed under MIT*
 
-Copyright (c) 2016 **_Lew Davidson and Shane Ryan_**
+Copyright (c) 2017 **_Lew Davidson and Shane Ryan_**
 Licensing
